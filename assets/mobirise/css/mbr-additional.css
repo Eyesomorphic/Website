@@ -2313,6 +2313,60 @@ a {
     margin-bottom: 1rem;
   }
 }
+.cid-ua3vbN13nP {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #fffdfa;
+}
+.cid-ua3vbN13nP .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-ua3vbN13nP .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-ua3vbN13nP .card-wrapper {
+  background: #c2c2c2;
+}
+@media (max-width: 767px) {
+  .cid-ua3vbN13nP .card-wrapper {
+    padding: 2rem 1.5rem;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .cid-ua3vbN13nP .card-wrapper {
+    padding: 2.25rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-ua3vbN13nP .card-wrapper {
+    padding: 4rem;
+  }
+}
+.cid-ua3vbN13nP .mbr-text,
+.cid-ua3vbN13nP .mbr-section-btn {
+  color: #000000;
+  text-align: left;
+}
+.cid-ua3vbN13nP .card-title,
+.cid-ua3vbN13nP .card-box {
+  text-align: left;
+  color: #000000;
+}
+.cid-ua3vbN13nP .mbr-section-subtitle {
+  text-align: left;
+}
+.cid-ua3vbN13nP .mbr-text {
+  text-align: left;
+}
+.cid-ua3vbN13nP .mbr-card-title {
+  text-align: left;
+}
 .cid-tJS9NNcTLZ {
   padding-top: 1rem;
   padding-bottom: 1rem;
